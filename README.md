@@ -16,7 +16,9 @@
 
 ## What I Learned
 
-* XXX
+* What is web scrape
+* How to do basic web scraping using python
+* python library BeautifulSoup4
 
 ## Contact Me (Code Advocate)
 
